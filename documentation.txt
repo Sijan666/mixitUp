@@ -31,4 +31,4 @@
     //     </div>
     // </div>
 
-if not work , use ...rest in button jsx
+if not work , use ...rest in button jsx ( className er baire )
