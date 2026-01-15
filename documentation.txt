@@ -31,4 +31,4 @@
     //     </div>
     // </div>
 
-if not work , use ...rest in button
+if not work , use ...rest in button jsx
